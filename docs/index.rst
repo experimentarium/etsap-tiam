@@ -3,12 +3,21 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ETSAP-TIAM's documentation!
+Welcome to ETSAP-TIAM's documentation project!
 ======================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :titlesonly:
+   
+   model_objective/index
+   regional_coverage/index
+   sectoral_coverage/index
+   restrictions/index
+   scenarios/index
+   exogenous/index
+   optional/index
+   
 
 
 
