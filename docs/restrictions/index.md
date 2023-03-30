@@ -7,4 +7,10 @@ This section describes:
 - Security of supply 
 - Regional policies covered by constrains in the model 
 
-
+```{toctree}
+---
+titlesonly:
+glob:
+---
+*
+```

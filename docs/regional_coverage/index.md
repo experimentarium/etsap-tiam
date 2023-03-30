@@ -8,3 +8,10 @@ This section describes:
 - Demand forecast 
 - Import/Export
 
+```{toctree}
+---
+titlesonly:
+glob:
+---
+*
+```

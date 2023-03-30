@@ -12,4 +12,10 @@ This section describes:
 - Optional: Data Availability and usage and sources
 - Optional: Comparison to other global Models
 
-
+```{toctree}
+---
+titlesonly:
+glob:
+---
+*
+```
