@@ -1,3 +1,3 @@
 # Introduction about the model
 
-ETSAP-TIAM is a global times model developed under ETSAP.
+ETSAP-TIAM is a global TIMES model developed under ETSAP.
