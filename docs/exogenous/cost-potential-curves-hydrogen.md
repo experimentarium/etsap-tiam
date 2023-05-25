@@ -15,6 +15,7 @@ Figure 2: Cost potential curves for all TIAM regions. Source [1]
 Figure 3: Implementation Scheme of Hydrogen Cost-Potential Curves in TIAM.
 
 Hydrogen supply in TIAM is modeled according to the previously determined cost-potential curves as shown in table 1, these are referred to as H2SypplyEXP1-8 in figure 3. The 8 different levels correspond to individual technologies in each case. Level 1 (cf. figure 2) is thus represented by the technology H2SupplyEXP1 within TIAM, continuing in the same manner for the remaining 7 levels. While the technologies H2SupplyEXP1-8 represent the cost potential curves for shippable liquid hydrogen, the 8 technologies H2SupplyLoc1-8 represent gaseous hydrogen for local demand. 
+
 The cost-potential curves (cf. figure 2) include the full costs for the production of hydrogen. All relevant technologies as solar pv, wind onshore and electrolyser are also considered in the costs. In order to represent the capacities correctly in TIAM, these technologies must be added to the cost potential curves (cf. EWIN and ESOL in figure 2). These are implemented in the model without costs (CAPEX and OPEX), but still contain all important techno-economic parameters such as availabilities, efficiency and lifetime. 
 
 ## References
