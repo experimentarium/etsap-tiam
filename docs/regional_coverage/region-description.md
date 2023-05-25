@@ -1,7 +1,7 @@
 # Region description
 The considered regions of TIAM can be seen in figure 1. All are listed seperatly in table 1. 
 
-
+![TIAM Map](./figs/region-description.png) 
 Figure 1. TIAM regions on global map.
 
 Table 1: TIAM Regions with description.
