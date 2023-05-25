@@ -36,5 +36,7 @@ Table 1: TIAM Regions with description.
 
 ## References
 [1]	B. Mousavi and M. Blesl, “Analysis of the relative roles of supply-side and demand-side measures in tackling the global 1.5°C target.: Published in Giannakidis G., K. Karlsson, M. Labriet, B. Ó Gallachóir (eds.), Lim-iting Global Warming to Well Below 2° Energy System Modelling and Policy Development. Springer, Lecture Notes in Energy,” 2018.
+
 [2]	B. Mousavi, “Analysis of the relative roles of supply-side and demand-side measures in tackling global climate change: Application of a hybrid energy system model,” 2019.
+
 [3]	U. Remme, Overview of TIMES: Parameters, Primal Variables & Equations.
