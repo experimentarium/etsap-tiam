@@ -12,23 +12,23 @@ As with onshore wind energy, the literature research for PV shows that little at
 
 Compared to PyGRETA and GLAES/RESKit, the study by Davison et al. [7] shows a slight underestimation of the technical potentials for all regions investigated. In general, the literature comparison with PyGRETA and RESKit shows that differences become larger the more countries are combined into one region. This leads to the conclusion that in the publications partial areas of the countries are examined and thus technical potentials were underestimated. Also, some of the studies date back years, so it can be assumed that with the progress of technology, a more precise recording can be made by means of GIS and the results are more reliable in this respect.  
 
-![Onshore Wind Comparison](docs/restrictions/OnshoreWindComparison.png) 
+![Onshore Wind Comparison](./figs/onshore-wind-comparison.png) 
 Figure 1: Study comparision on onshore wind. Sources: [1, 2, 5, 6, 9–12].
 
-![PV Comparison](docs/restrictions/PVComparison.png) 
+![PV Comparison](./figs/pv-comparison.png) 
 Figure 2: Study comparison on solar pv. Sources: [1, 2, 5, 7, 8, 13–15].
 
 The global comparison of the technical potentials for onshore wind is shown in Figure 3. The figure clearly shows that the literature leads to different results. The differences can be explained by the fact that only the potential analysis with the PyGRTEA model includes all countries of the world. Accordingly, this potential analysis shows the highest global values.  
 
 Figure 4 shows a comparison of the global potentials for solar PV. It is clear from this that the IPCC report [8] in particular shows very high technical potentials for PV globally. The remaining studies differ again in terms of the re-regional coverage. A clear trend towards global PV potentials cannot be identified on the basis of the studies available to date.
 
-![Wind Onshore Global Comparison](docs/restrictions/OnshoreWindGlobal.png) 
+![Wind Onshore Global Comparison](./figs/onshore-wind-global.png) 
 Figure 3: Study comparison on global onshore wind potential.
 
-![PV Global Comparison](docs/restrictions/PVGlobal.png)  
-Figure 4: Study comparison on global solar pv potential.
+![PV Global Comparison](./figs/pv-global.png)  
+Figure 4: Study comparison on global solar PV potential.
 
-## Selection of Reneawble Potentials for TIAM
+## Selection of Renewable Potentials for TIAM
 
 Through literature research, it has been shown that the values from the PyGRETA model calculations have the better spatial coverage using the same methodology as other models. The values can be found in Table 1.
 
