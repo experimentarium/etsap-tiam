@@ -15,4 +15,5 @@ Table 1: Remaing CO2 Budget based on 1.5 °C and 2.°C scenarios
 
 ### References
 [1]	United Nations, Framework Convention on Climate Change (COP21) Paris Agreement: Available online:. [Online]. Available: https://unfccc.int/process-and-meetings/the-paris-agreement/the-paris-agreement (accessed: 22.01.23).
+
 [2]	IPCC, “Mitigation Pathways Compatible with 1.5°C in the Context in the Context of Sustainable Development,” 2018.
