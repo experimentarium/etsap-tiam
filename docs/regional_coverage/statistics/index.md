@@ -1,4 +1,4 @@
-# Regional coverage
+# Statistics
 
 This section describes:
 
@@ -8,5 +8,5 @@ This section describes:
 titlesonly:
 glob:
 ---
-*/*
+*
 ```
