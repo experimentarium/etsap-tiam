@@ -1,4 +1,4 @@
-# Restrictions
+# Statistics
 
 This section describes:
 
