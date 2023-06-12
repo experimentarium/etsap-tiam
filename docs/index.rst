@@ -7,7 +7,7 @@ Welcome to ETSAP-TIAM's documentation project!
 ======================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :titlesonly:
    
    model_objective/index
@@ -21,9 +21,9 @@ Welcome to ETSAP-TIAM's documentation project!
 
 
 
-Indices and tables
-==================
+.. Indices and tables
+   ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   * :ref:`genindex`
+   * :ref:`modindex`
+   * :ref:`search`

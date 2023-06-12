@@ -1,4 +1,4 @@
-# Model Information
+## Model Overview
 
 Energy system models are used to measure the impact of climate policy and find path dependencies when decarbonizing the energy system.
 
@@ -37,7 +37,7 @@ Table 1: TIAM Regions with description.
 | WEU         | Western European Union    | Portugal, Spain, France, Great Britain, Sweden, Norway, Finland, Italy, Greece, Switzerland, Austria                                |
 
 
-## References
+### References
 [1]	B. Mousavi and M. Blesl, “Analysis of the relative roles of supply-side and demand-side measures in tackling the global 1.5°C target.: Published in Giannakidis G., K. Karlsson, M. Labriet, B. Ó Gallachóir (eds.), Lim-iting Global Warming to Well Below 2° Energy System Modelling and Policy Development. Springer, Lecture Notes in Energy,” 2018.
 
 [2]	B. Mousavi, “Analysis of the relative roles of supply-side and demand-side measures in tackling global climate change: Application of a hybrid energy system model,” 2019.

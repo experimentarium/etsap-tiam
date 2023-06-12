@@ -1,4 +1,4 @@
-# Optional
+# Additional Information
 
 This section describes:
 

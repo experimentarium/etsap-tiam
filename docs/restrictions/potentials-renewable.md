@@ -1,6 +1,29 @@
 # Potentials for Renewable Energies
 
-## Research of renewable potentials in study comparison
+## Regional based Renewable Potentials for TIAM
+
+The regional based potentials of renewable energie as solar pv and onshore wind can be found in Table 1.
+
+Table 1: Global Renewable Potentials. Source [2].
+| TIAM-Region  | PV Capacity [GW] | PV annual Production [TWh/a] | Wind Capacity [GW] | Wind annual Production [TWh/a] | Biomass annual Production [TWh/a] |
+|--------------|------------------|------------------------------|--------------------|--------------------------------|-----------------------------------|
+| AFR          | 155809           | 328679                       | 13670              | 19734                          | 4                                 |
+| AUS          | 350321           | 734415                       | 36613              | 67927                          | 87                                |
+| CAN          | 109453           | 96254                        | 39656              | 46159                          | 186                               |
+| CSA          | 137176           | 253929                       | 22320              | 30057                          | 245                               |
+| CHI          | 137742           | 240151                       | 40990              | 45890                          | 1772                              |
+| EEU          | 397              | 531                          | 690                | 1053                           | 89                                |
+| FSU          | 118822           | 124550                       | 85917              | 85392                          | 307                               |
+| GER          | 342              | 395                          | 285                | 559                            | 128                               |
+| IND          | 17411            | 31612                        | 11124              | 8691                           | 1350                              |
+| JPN          | 268              | 405                          | 795                | 834                            | 39                                |
+| MEX          | 47236            | 93199                        | 8840               | 6096                           | 150                               |
+| MEA          | 166948           | 346708                       | 12528              | 15799                          | 4                                 |
+| ODA          | 21365            | 42250                        | 3593               | 3033                           | 165                               |
+| SKO          | 51               | 82                           | 184                | 193                            | 15                                |
+| USA          | 111869           | 188404                       | 35492              | 49295                          | 993                               |
+| WEU          | 4756             | 3964                         | 1795               | 3122                           | 11                                |
+
 
 Based on a literature review, studies on renewable energy potentials were examined. Included are studies with the models GLAES/RESKit (cf. Franzmann et al. [1]) and PyGRETA (cf. Buchenberg et al. [2]), which have investigated the global renewable potentials within the project "ETSAP Deutschland" (cf. Figure 1 & Figure 2).
 
@@ -27,30 +50,6 @@ Figure 3: Study comparison on global onshore wind potential.
 
 ![PV Global Comparison](./figs/pv-global.png)  
 Figure 4: Study comparison on global solar PV potential.
-
-## Selection of Renewable Potentials for TIAM
-
-Through literature research, it has been shown that the values from the PyGRETA model calculations have the better spatial coverage using the same methodology as other models. The values can be found in Table 1.
-
-Table 1: PyGRETA Model Results for global Renewable Potentials.
-| TIAM-Region  | PV Capacity [GW] | PV annual Production [TWh/a] | Wind Capacity [GW] | Wind annual Production [TWh/a] | Biomass annual Production [TWh/a] |
-|--------------|------------------|------------------------------|--------------------|--------------------------------|-----------------------------------|
-| AFR          | 155809           | 328679                       | 13670              | 19734                          | 4                                 |
-| AUS          | 350321           | 734415                       | 36613              | 67927                          | 87                                |
-| CAN          | 109453           | 96254                        | 39656              | 46159                          | 186                               |
-| CSA          | 137176           | 253929                       | 22320              | 30057                          | 245                               |
-| CHI          | 137742           | 240151                       | 40990              | 45890                          | 1772                              |
-| EEU          | 397              | 531                          | 690                | 1053                           | 89                                |
-| FSU          | 118822           | 124550                       | 85917              | 85392                          | 307                               |
-| GER          | 342              | 395                          | 285                | 559                            | 128                               |
-| IND          | 17411            | 31612                        | 11124              | 8691                           | 1350                              |
-| JPN          | 268              | 405                          | 795                | 834                            | 39                                |
-| MEX          | 47236            | 93199                        | 8840               | 6096                           | 150                               |
-| MEA          | 166948           | 346708                       | 12528              | 15799                          | 4                                 |
-| ODA          | 21365            | 42250                        | 3593               | 3033                           | 165                               |
-| SKO          | 51               | 82                           | 184                | 193                            | 15                                |
-| USA          | 111869           | 188404                       | 35492              | 49295                          | 993                               |
-| WEU          | 4756             | 3964                         | 1795               | 3122                           | 11                                |
 
 ## References
 [1]	D. Franzmann et al., “Green Hydrogen Cost-Potentials for Global Trade”, Mar. 2023. [Online]. Available: https://arxiv.org/pdf/2303.00314
