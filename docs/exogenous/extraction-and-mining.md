@@ -1,3 +1,3 @@
-## Extraction and Mining of Fossil Fuels
+# Extraction and Mining of Fossil Fuels
 
 In progress.
