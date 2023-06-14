@@ -1,3 +1,3 @@
-## Global Trade of Commodities
+# Global Trade of Commodities
 
 In progress.
