@@ -5,7 +5,8 @@ This section describes:
 ```{toctree}
 ---
 titlesonly:
-glob:
 ---
-*
+introduction-tiam
+time-horizon
+objective-function
 ```
