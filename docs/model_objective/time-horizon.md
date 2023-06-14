@@ -1,4 +1,4 @@
-## Time Resolution
+# Time Resolution
 
 The TIAM model covers a time horizon from 2015 to 2100, which is divided into ten periods. The model splits each time period into six time slices consisting of three seasons, namely, summer, winter, and intermediate with equal length (i.e., four months). To consider changes in load based on sector demand profiles, each season is further divided into day and night accounting for 16 hours and 8 hours, respectively (Figure 1).
 
