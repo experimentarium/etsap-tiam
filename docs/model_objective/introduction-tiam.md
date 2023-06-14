@@ -1,4 +1,4 @@
-# Model Information
+# Model Overview
 
 Energy system models are used to measure the impact of climate policy and find path dependencies when decarbonizing the energy system.
 

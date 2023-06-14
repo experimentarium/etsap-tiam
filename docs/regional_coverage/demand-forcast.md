@@ -1,3 +1,0 @@
-## Demand Forecast
-
-In progress.

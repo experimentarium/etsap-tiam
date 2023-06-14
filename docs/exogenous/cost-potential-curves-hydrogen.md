@@ -1,4 +1,4 @@
-# Cost Potential Curves for Hydrogen
+# Regional based Cost Potential Curves for Hydrogen
 
 ## General information
 The cost potential curves are derived by using the models GLAES and RESKit. A detailed description can be found in [1]. The minimal costs for hydrogen production, based on level 1, can be seen in figure 1. All belonging values can be found in figure 2. 
