@@ -21,7 +21,8 @@ The TIAM model can be extended by a macro model in order to get the macroeconomi
 
 The TIAM model has connections to the energy system cost, as well as the energy service demands (cf. figure 2), while the TSAM model uses capital and labor for the CES function in order to create feedback loops that affect the TIAM model, based on the energy system costs (cf. figure 2).
 
-![TIAM and TSAM combination](./figs/tsam_extension.png) 
+![TIAM and TSAM combination](./figs/tsam_extension.png)
+
 Figure 2: TIAM Model linked to Macro extension [1].
 
 ### References
