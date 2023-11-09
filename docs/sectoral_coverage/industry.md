@@ -7,7 +7,7 @@ The industrial sector also includes in-house and industrial production of electr
 Figure 1: Industry subsectors in TIAM.
 
 ![Other Industries](./figs/other_industries.png) 
-Figure 1: Other Industries (IOI) in TIAM.
+Figure 2: Other Industries (IOI) in TIAM.
 
 Table 1: Industry Subsector Units.
 | **TIAM Code** | **Energy service demand**            | **Unit** |
