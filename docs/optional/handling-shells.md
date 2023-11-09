@@ -12,5 +12,3 @@ Figure 1: Block diagram of the interrelation between TIMES model data, VEDA, TIM
 [1] 	"ETSAP, VEDA Description", 2023. [Online]. Available: https://www.iea-etsap.org/index.php/etsap-tools/data-handling-shells/veda.
 
 [2] 	"GAMS- General Algebraic Modelling System", 2023. [Online]. Available: https://www.gams.com/.
-
-
