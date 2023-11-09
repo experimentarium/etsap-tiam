@@ -18,6 +18,7 @@ Table 1: Main benefits and challenges of different linking approaches.
 ### TIAM Macro Model
 
 The TIAM model can be extended by a macro model in order to get the macroeconomic view included (cf. figure 1). TIAM is a linear energy system model while the macro module is represented by a non-linear macroeconomic model called TIAM-Macro Stand-alone (TSAM). The key function of the TSAM model is the constant elasticity of substitution (CES) function (cf. figure 2). By using the CES function the economic behaviour in the sense of resource distribution can be described. All the physical commodity trades are endogenously modeled in TIAM, the monetary trades are done in TSAM (based on numéraire goods).
+
 The TIAM model has connections to the energy system cost, as well as the energy service demands (cf. figure 2), while the TSAM model uses capital and labor for the CES function in order to create feedback loops that affect the TIAM model, based on the energy system costs (cf. figure 2).
 
 ![TIAM and TSAM combination](./figs/tsam_extension.png) 
