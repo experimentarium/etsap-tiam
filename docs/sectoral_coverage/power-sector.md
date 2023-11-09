@@ -16,7 +16,7 @@ Table 1: CAPEX, OPEX, efficiency and lifetime of different renewable power plant
 | Offshore-Wind  | \-                 | \-                    | \-             | 1.496        | 3          | 100 | 25 | [5] |
 | Nuclear        | \-                 | \-                    | \-             | 3.990        | 4          | 30 | 60 | [5] |
 
-References
+### References
 [1]	R. C. Pietzcker, S. Osorio, and R. Rodrigues, “Tightening EU ETS targets in line with the European Green Deal: Impacts on the decarbonization of the EU power sector,” Applied Energy, vol. 293, p. 116914, 2021, doi: 10.1016/j.apenergy.2021.116914.
 
 [2]	F. Ausfelder, D. Du Tran, A. Cadavid Isaza, C. de La Rua, J. Gawlick, and T. e. a. Hamacher, 4. Roadmap des Kopernikus-Projektes P2X Phase II – OPTIONEN FÜR EIN NACHHALTIGES ENERGIE- SYSTEM MIT POWER-TO-X- TECHNOLOGIEN.: Transformation – Anwendungen – Potenziale.
