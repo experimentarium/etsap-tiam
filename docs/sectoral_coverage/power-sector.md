@@ -6,17 +6,17 @@ In terms of economic evaluation, TIAM considers explicitly CAPEX, OPEX, efficien
 
 These technologies are used as input to the TIAM model for power generation, green hydrogen production and are part of the objective function of minimizing the total costs.
 
-Table 1: CAPEX, OPEX, efficiency and lifetime of different renewable power plants 
+Table 1: CAPEX, OPEX, efficiency and lifetime of different renewable power plants
 | Technology    | CAPEX     |       |       |       | OPEX       | Efficiency | Lifetime | Source   |
 |---------------|-----------|-------|-------|-------|------------|------------|----------|----------|
 |               |  [EUR/kW] |       |       |       | [%CAPEX/a] | [%]        | [Year]   |          |
 | Year          | 2020      | 2030  | 2040  | 2050  |            |            |          |          |
 | Onshore Wind  | 1.257     | 1.137 | 987   | 923   | 3          | 100        | 25       | [1]      |
 | Solar PV      | 703       | 395   | 340   | 326   | 1          | 100        | 25       | [1]      |
-| Biomass       | 2.037     | 1.954 | 1.892 | 1.826 | 3.5   | 100        | 25       | [2], [3] |
-| Hydro Power   | -         | -     | -     | 2.718 | 2          | 100        | 100      | [4], [5] |
-| Offshore-Wind | -         | -     | -     | 1.496 | 3          | 100        | 25       | [5]      |
-| Nuclear       | -         | -     | -     | 3.990 | 4          | 30         | 60       | [5]      |
+| Biomass       | 2.037     | 1.954 | 1.892 | 1.826 | 3.5        | 100        | 25       | [2], [3] |
+| Hydro Power   | -         | -     | -     | 2.718 | 2          | 100        | 100      | [2], [4] |
+| Offshore-Wind | -         | -     | -     | 1.496 | 3          | 100        | 25       | [4]      |
+| Nuclear       | -         | -     | -     | 3.990 | 4          | 30         | 60       | [4]      |
 
 ## References
 
@@ -26,6 +26,4 @@ Table 1: CAPEX, OPEX, efficiency and lifetime of different renewable power plant
 
 [3]	IEA, “World Energy Outlook 2018,” Paris, Nov. 2018. Accessed: Jan. 30 2023. [Online]. Available: https://www.iea.org/reports/world-energy-outlook-2018.
 
-[4]	F. Ausfelder, D. Du Tran, A. Cadavid Isaza, C. de La Rua, J. Gawlick, and T. e. a. Hamacher, 4. Roadmap des Kopernikus-Projektes P2X Phase II – OPTIONEN FÜR EIN NACHHALTIGES ENERGIE- SYSTEM MIT POWER-TO-X- TECHNOLOGIEN.: Transformation – Anwendungen – Potenziale.
-
-[5]	IEA, “World Energy Outlook 2021,” Paris, Nov. 2021. Accessed: Jan. 30 2023. [Online]. Available: https://www.iea.org/reports/world-energy-outlook-2018.
+[4]	IEA, “World Energy Outlook 2021,” Paris, Nov. 2021. Accessed: Jan. 30 2023. [Online]. Available: https://www.iea.org/reports/world-energy-outlook-2018.
