@@ -7,9 +7,9 @@ In terms of economic evaluation, TIAM considers explicitly CAPEX, OPEX, efficien
 These technologies are used as input to the TIAM model for power generation, green hydrogen production and are part of the objective function of minimizing the total costs.
 
 Table 1: CAPEX, OPEX, efficiency and lifetime of different renewable power plants
-| Technology    | CAPEX     |       |       |       | OPEX       | Efficiency | Lifetime | Source   |
+| Technology    | CAPEX [EUR/kW] |       |       |       | OPEX [%CAPEX/a] | Efficiency [%] | Lifetime [Years] | Source   |
 |---------------|-----------|-------|-------|-------|------------|------------|----------|----------|
-|               |  [EUR/kW] |       |       |       | [%CAPEX/a] | [%]        | [Year]   |          |
+|               |   |       |       |       |  |         |   |          |
 | Year          | 2020      | 2030  | 2040  | 2050  |            |            |          |          |
 | Onshore Wind  | 1.257     | 1.137 | 987   | 923   | 3          | 100        | 25       | [1]      |
 | Solar PV      | 703       | 395   | 340   | 326   | 1          | 100        | 25       | [1]      |
