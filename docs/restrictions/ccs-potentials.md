@@ -17,7 +17,7 @@ Table 1: Assumed carbon storage potentials by different categories and geographi
 | Deep saline aquifers             | 409    | 1029 | 1193    | 205    | 409 | 205     | 3449  |
 | Total                            | 423    | 1315 | 1340    | 268    | 562 | 250     | 4157  |
 
-References
+### References
 
 [1] 	S. Syri, A. Lehtilä, I. Savolainen und T. Ekholm, „Global energy and emissions scenarios for effective climate change mitigation- modelling study with the ETSAP/TIAM mitigation,“ VTT Energy systems, 2007.
 
