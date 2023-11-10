@@ -2,7 +2,7 @@
 
 The household sector is described on the basis of 11 energy services   which include residential cooling, space heating and residential lighting and the units for all the services are in PJ. For the energy services "Residential Cooling" (RC), "Residential Space Heat" (RH), "Residential Cooking" (RK) and "Residential Lighting" (RL), the codes 1-4 are assigned to differentiate between sub-regions, for example, to differentiate between urban and rural regions. Apart from exceptions such as the USA or Canada, most geographical regions are only divided into the two sub-regions "rural" and "urban" - if no sub-regions exist, the codes for region 1 are selected by default. General demographic and economic factors (drivers) such as population and GDP per capita are used to project demand for energy services into the year 2100. By estimating these factors, the future demand for energy services is determined and the sensitivity of the energy demand to changes in the influencing factors is also determined by making assumptions. 
 
-
+Table 1: Energy service demands in the residential sector.
 | Code | Energy service demand | Unit |
 |------|-----------------------|------|
 | RH   | Space heating         | PJ   |
