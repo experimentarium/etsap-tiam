@@ -1,4 +1,4 @@
-# Region description
+## Region description
 The considered regions of TIAM can be seen in figure 1. All are listed seperatly in table 1. 
 
 ![TIAM Map](./figs/region-description.png) 
