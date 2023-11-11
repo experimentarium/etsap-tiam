@@ -8,5 +8,5 @@ This section describes:
 titlesonly:
 glob:
 ---
-*
+**
 ```
