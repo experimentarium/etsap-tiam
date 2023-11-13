@@ -1,3 +1,0 @@
-## Fossil Supply
-
-In progress.
