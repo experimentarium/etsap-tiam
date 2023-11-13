@@ -10,7 +10,6 @@ Table 1: Energy service demands in transport.
 | **TAI**  | International Aviation        | PJ       |
 | **TRB**  | Road Bus Demand               | Bv-km    |
 | **TRC**  | Road Commercial Trucks Demand | Bv-km    |
-| **TRC**  | Road Commercial Trucks Demand | Bv-km    |
 | **TRE**  | Road Three Wheels Demand      | Bv-km    |
 | **TRH**  | Road Heavy Trucks Demand      | Bv-km    |
 | **TRL**  | Road Light Vehicle Demand     | Bv-km    |
