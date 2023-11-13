@@ -10,8 +10,8 @@ An energy balance provides a detailed and comprehensive overview of the energy s
 
 ### Energy Flows
 
-The energy balance provides all relevant information to describe all end-use sectors (agriculture, commercial, industry, residential and transport) for an energy system model. Therefore, energy carriers as coal, oil and gas are covered in the energy statistics flow.
-Depending on the level of modelling, the energy balance does not support the degree on detail. Therefore, some further expert information is necessary in order to built up a full model.
+The energy balance provides all relevant information to describe all end-use sectors (agriculture, commercial, industry, residential and transport) for an energy system model. Therefore, energy carriers, such as coal, oil and gas are covered in the energy statistics flow.
+Depending on the level of modelling, the energy balance does not support the degree on detail. Therefore, some further expert information is necessary in order to build up a full model.
 
 ### Energy Balance for TIAM
 
@@ -19,6 +19,6 @@ The energy balances for TIAM are provided by the IEA. There is an open data ener
 
 https://stats.oecd.org/BrandedView.aspx?oecd_bv_id=enestats-data-en&doi=data-00512-en
 
-Beside that an extended version of the energy balances is available, also provided by the IEA. This version also provides all important energy flows, that are necessary for to describe a large energy system model as TIAM. The extended Version is not publicly available:
+In addition, an extended version of the energy balances is available, also provided by the IEA. This version also provides all important energy flows that are necessary to describe a large energy system model as TIAM. The extended version is publicly available but need the right permissions.
 
 https://www.oecd-ilibrary.org/energy/data/iea-world-energy-statistics-and-balances/extended-world-energy-balances_data-00513-en
