@@ -7,5 +7,6 @@ TIAM is a technology rich bottom-up model. The model includes information about 
 titlesonly:
 glob:
 ---
+energy-service-demands
 *
 ```
