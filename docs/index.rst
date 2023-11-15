@@ -14,6 +14,9 @@ Welcome to ETSAP-TIAM's documentation project!
    regional_coverage/index
    sectoral_coverage/index
    restrictions/index
+   scenarios/index
+   exogenous/index
+   optional/index
    literature/index
    
 
