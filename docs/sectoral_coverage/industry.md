@@ -10,18 +10,18 @@ Figure 1: Industry subsectors in TIAM.
 Figure 2: Other Industries (IOI) in TIAM.
 
 Table 1: Industry Subsector Units.
-| **TIAM Code** | **Energy service demand**            | **Unit** |
-| ------------- | ------------------------------------ | -------- |
-| **ICH**       | Chemicals PJ                         | PJ       |
-| **IIS**       | Iron and Steel                       | Mt       |
-| **ILP**       | Pulp and Paper                       | Mt       |
-| **INF**       | Non-ferrous metals                   | Mt       |
-| **INM**       | Non Metals                           | PJ       |
-| **IOI**       | Other Industries                     | PJ       |
-| **NEO**       | Industrial and Other Non Energy Uses | PJ       |
-| **ONO**       | Other non-specified consumption      | PJ       |
+| **TIAM Code** | **Energy service demand**            | **Unit** | **Driver** |
+| ------------- | ------------------------------------ | -------- | ---------- |
+| **ICH**       | Chemicals PJ                         | PJ       | GDP        |
+| **IIS**       | Iron and Steel                       | Mt       | GDP        |
+| **ILP**       | Pulp and Paper                       | Mt       | GDP        |
+| **INF**       | Non-ferrous metals                   | Mt       | GDP        |
+| **INM**       | Non Metals                           | PJ       | GDP        |
+| **IOI**       | Other Industries                     | PJ       | GDP        |
+| **NEO**       | Industrial and Other Non Energy Uses | PJ       | GDP        |
+| **ONO**       | Other non-specified consumption      | PJ       | GDP        |
 
-Various technologies and fuels suitable for the provision of steam, electrochemical processes, machine drives and process heat are modelled in order to map the energy demand of each industry for the base year. Due to the elastic demand for energy services, parameters are defined to describe the elasticity and used in the model. General demographic and economic factors (influencing factors) such as population and GDP per capita are used to project the demand for energy services up to the year 2100. By estimating these factors, the future demand for energy services is determined and the sensitivity of the energy demand to changes in the influencing factors is also determined by making assumptions.
+Various technologies and fuels suitable for the provision of steam, electrochemical processes, machine drives and process heat are modelled in order to map the energy demand of each industry for the base year. Due to the elastic demand for energy services, parameters are defined to describe the elasticity and used in the model. The projection of demand for energy services up to the year 2100 is carried out using suitable [drivers and elasticities](../regional_coverage/demand-projection.md).
 
 Hundreds of technologies are used in the industrial sector to harness various energy sources to meet the demand for energy services. The available technologies compete with each other and are characterised on the basis of parameters such as achievable efficiency, plant service life, annual utilisation factor and seasonal share coefficients. It is assumed that technical systems based on a technology used in the base year 2015 can be used until the end of their service life. New investments in existing technologies may not be made in any industrial sector, meaning that the technologies listed in the new technology sheet will gradually replace the existing ones based on parameters such as higher efficiency and lower investment costs. Hurdle rates for new technologies range from 10% for developed countries (e.g. Australia and Canada) to 20% for least developed countries (e.g. India and continent of Africa).
 
