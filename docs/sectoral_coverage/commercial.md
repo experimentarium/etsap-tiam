@@ -3,16 +3,16 @@
 In the commercial sector, a distinction is made among seven energy service demands: Commercial Cooling (CC), Commercial Cooking (CCK), Commercial Space Heat (CH), Commercial Hot Water (CHW), Commercial Lighting (CLA), Commercial Office Equipment (COE) and Commercial Refrigeration (CRF). CC and CH have codes 1 to 4, which can be used to break down these energy service segments in a region into further four sub-regions. This is done in order to differentiate between different regions, for example urban and rural regions, similar to the [residential sector](residential.md). Apart from exceptions such as the USA or Canada, most geographical regions are only divided into the two sub-categories "rural" and "urban" - if no sub-regions exist, the codes for region 1 are selected by default. 
 
 Table 1: Energy service demands in the commercial sector.
-| Code | Energy service demand       | Unit |
-|------|-----------------------------|------|
-| CC   | Commercial cooling          | PJ   |
-| CCK  | Commercial cooking          | PJ   |
-| CH   | Commercial space heat       | PJ   |
-| CHW  | Commercial hot water        | PJ   |
-| CLA  | Commercial lighting         | PJ   |
-| COE  | Commercial office equipment | PJ   |
-| CRF  | Commercial refrigeration    | PJ   |
+| Code | Energy service demand       | Unit | Driver |
+|------|-----------------------------|------|--------|
+| CC   | Commercial cooling          | PJ   | GDP    |
+| CCK  | Commercial cooking          | PJ   | GDP    |
+| CH   | Commercial space heat       | PJ   | GDP    |
+| CHW  | Commercial hot water        | PJ   | GDP    |
+| CLA  | Commercial lighting         | PJ   | GDP    |
+| COE  | Commercial office equipment | PJ   | GDP    |
+| CRF  | Commercial refrigeration    | PJ   | GDP    |
 
-The final energy consumption of the commercial sector in the base year is calculated from IEA data sheets, data on the energy sources used, the end-use technologies used (each with a separate technology data sheet) and the emissions generated. The IEA energy balance breaks down the aggregated energy consumption into 11 fuel categories (for instance, coal, natural gas and biomass) and assigns it to energy services. This balance sheet was created for each region to calibrate the base year 2015 in order to carry this out on a detailed data basis. The projection of demand for energy services up to the year 2100 is carried out using suitable drivers and elasticities. In order to determine the emissions of the commercial factor, the commercial emission factor is used, which is included in the template for the base year 2015.
+The final energy consumption of the commercial sector in the base year is calculated from IEA data sheets, data on the energy sources used, the end-use technologies used (each with a separate technology data sheet) and the emissions generated. The IEA energy balance breaks down the aggregated energy consumption into 11 fuel categories (for instance, coal, natural gas and biomass) and assigns it to energy services. This balance sheet was created for each region to calibrate the base year 2015 in order to carry this out on a detailed data basis. The projection of demand for energy services up to the year 2100 is carried out using suitable [drivers and elasticities](../regional_coverage/demand-projection.md). In order to determine the emissions of the commercial factor, the commercial emission factor is used, which is included in the template for the base year 2015.
 
 In addition to the technologies for generating energy sources, the technologies for providing the desired energy service are also considered. The existing technologies were modeled for each region and sub-region in the base year - several technologies compete to meet the demand for energy services. 
