@@ -19,7 +19,6 @@ Unlike other commodities, information regarding import and export of uranium is 
 
 Commodities such as hydrogen, ammonia and synfuels can be produced in any TIAM region due to the availability of technologies to produce them. Hence, all the regions are given the possibility to import or export them from/ to other regions via ship transport. For ship transport, one specific harbour/ port is selected for each TIAM region except for Africa. Africa, due to its size, has two ports [2]. Further information related to the location of the ports and the trade of commodities is mentioned in the section “Global trade of commodities”.
 
-
 References
 
 [1] 	U. Remme, M. Blesl und U. Fahl, „Global resources and energy trade: An overview of coal, natural ga, oil and uranium,“ Stuttgart, 2007.
