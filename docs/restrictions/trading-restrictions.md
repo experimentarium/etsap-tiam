@@ -1,24 +1,19 @@
 # Global Trade of Commodities
 
-
 An important and key feature of TIAM is trading of commodities between different regions. As mentioned in the section “Import and Export”, specific commodities can be traded from one region to another mainly due to availability factor of the commodity in the regions and cost savings from domestic production. Following commodities are currently given an option for trading: Coal, Natural gas, LNG, crude oil, emissions (CO2 and non-CO2), uranium, hydrogen, ammonia and synfuels. 
 Trading possibility is modelled in TIAM using a TradeLinks table. The corresponding infrastructure costs and limits involved are modelled using other TIMES attributes. By giving this possibility, the TIAM region can chose whether to trade a commodity and from/to which region(s) to do so based on the costs, trade limits and the demand necessity.
 The conventional commodities- coal, natural gas, LNG and crude oil are modelled endogenously based on the statistics. In other words, as mentioned in the Import and Export section, trading is possible only among few regions due to high resource abundance. An example of coal trading is shown in Figure 1 below. 
 
-
 Figure 1: Coal trading between different regions in TIAM model.
 
-
-![Coal Trade](./figs/Coal_trade.PNG) 
+![Coal Trade](./figs/coal_trade.png) 
 
 Few commodities which include uranium, scrap iron and crude steel have a different trade scenario. A global region (GBL) is defined which acts as a world market. In this case, commodities can be traded with the world market based on the necessity and reduce costs.
 CO2 and other non-CO2 emissions can be also be traded in the model. These commodities, similar to uranium, can be traded via the world market (GBL region) so that the costs of global or regional emission targets can be reduced. Net trade of the market is always zero for any year. Figure 2 shows an example of the trading of a commodity using the world market. 
 
 Figure 2: Trading of Non-CO2 emissions from the world market (GBL). 
 
-![Unidirectional trade](./figs/Non-CO2_trade.PNG)
-
-
+![Unidirectional trade](./figs/non-co2_trade.png)
 
 Hydrogen, ammonia and other synfuels have recently evolved as energy carriers and can be produced in any region in the world. Hence, all TIAM regions have the possibility for bidirectional trade of these commodities, i.e. any region can import or export to any other region without restrictions. Currently, these commodities can be traded only via ship. Hence, harbours are selected for the regions. Table 1 depicts all the harbours selected for trading of these energy carriers between the regions. Based on the distance between the harbours, total costs are calculated for trade and entered into the appropriate TIMES attributes. TIAM regions can then select how much quantity needs to be traded to achieve the least cost.  
 
