@@ -4,7 +4,7 @@ In TIAM, import and export of commodities from/to different countries is include
 
 The energy carriers such as coal, oil, gas and uranium are concentrated in specific countries. Hence, only few TIAM regions are chosen for export of the conventional energy sources and other specific regions for import. Figure 1 below shows an example of coal trade with an activity bound, a TIMES attribute for trade limit, between TIAM regions. 
 
-![Coal import and export](./figs/coal_import_export.png) 
+![Coal import and export](./figs/coal_import_export.PNG) 
 Figure 1. Activity bound of coal trade (in PJ) between world regions for year 2015.
 
 Coal is transported by ship between the TIAM regions. Major exporters are Africa, Australia, China and the USA; major importers are Japan, South Korea, WEU and Germany [1].
