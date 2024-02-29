@@ -1,4 +1,4 @@
-## Regional based Cost Potential Curves for Synfuels
+## Regional Synfuels Cost Potential Curves
 
 The cost potential curves for synfuels are derived using the tools pyGRETA and urbs. A more detailed description can be found in [1]. The cost of synfuels based on a yearly acitivity can be found in Figure 1. 
 
