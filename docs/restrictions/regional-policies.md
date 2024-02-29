@@ -1,9 +1,9 @@
 ## Regional Policies
 
 Some countries set their own goals towards climate change. These policy goals include phase-out of conventional power plants, restrictions on nuclear technology installation, CO2-taxes and carbon neutrality.  Therefore, additional constraints are modelled in TIAM to include the policies of specific regions as well. 
-### Implementazion
+## Implementazion
 
-#### Carbon neutrality goal
+### Carbon neutrality goal
 
 An example is explained for the TIAM region-Germany. The German Climate Action Plan for 2050 describes the CO2 reduction targets for 2030, 2040 and 2045 for all demand sectors along with a goal of achieving carbon neutrality in industry, transport and building sectors by 2045 [1]. These emission reduction targets are modelled in TIAM with the appropriate TIMES attributes and linearly interpolated between the years. Table 1 below shows the constraint placed on the emissions from different sectors for Germany. 
 
@@ -17,7 +17,7 @@ Table 1: CO2 emissions per sector in Germany modelled in TIAM.
 | Upstream    | 183308         | 113504 | 4543.4 | 0    |
 | Agriculture | 61099          | 50655  | 40089  | 0    |
 
-#### Technology restrictions
+### Technology restrictions
 
 All the countries, except Germany, have defined policies on maximum nuclear power plant installations for the future. In the case of Germany, nuclear phase-out plan is already put in action since 2023 [2] and hence, the current and future capacity of nuclear plants are zero. Accordingly, In TIAM, constraints are defined for maximum nuclear capacity for every region. 
 
@@ -64,7 +64,7 @@ Table 3: Minimum electricity production from coal power plants (PJ) until 2030 i
 | WEU     | 904   | 427   |
 
 
-### Reference
+## References
 
 [1] 	„Climate Action Plan 2050: Principles and goals of the German government's climate policy,“ Federal ministry for the environment, nature conservation, building and nuclear safety, 2016.
 
