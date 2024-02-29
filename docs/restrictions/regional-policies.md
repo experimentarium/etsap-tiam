@@ -1,7 +1,10 @@
 # Regional Policies
 
 Some countries set their own goals towards climate change. These policy goals include phase-out of conventional power plants, restrictions on nuclear technology installation, CO2-taxes and carbon neutrality.  Therefore, additional constraints are modelled in TIAM to include the policies of specific regions as well. 
-## Implementation
+ Extraction-of-fossil-fuels
+## Implementazion
+
+ main
 
 ### Carbon neutrality goal
 

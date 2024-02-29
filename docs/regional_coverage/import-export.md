@@ -2,7 +2,11 @@
 
 In TIAM, import and export of commodities from/to different countries is included. These commodities include electricity, crude oil, coal, natural gas, naptha, gasoline, LNG, hydrogen, CO2 and ammonia. Infrastructure for export from one region to another region is modelled in TIAM for each commodity individually. Infrastructure includes power lines for electricity, pipelines and ship transport. For each commodity, TIMES attributes are applied between every two TIAM regions to calculate the limit and the total cost of import. For instance, investment cost for pipeline transport and activity cost for ship transport are evaluated and entered in the model.  
 
+ Extraction-of-fossil-fuels
+The energy carriers such as coal, oil, gas and uranium are concentrated in specific countries. Hence, only few TIAM regions are chosen for export of the conventional energy sources and other specific regions for import. Figure 1 below shows an example of coal trade with an activity bound, a TIMES attribute for trade limit, between TIAM regions.  
+
 The energy carriers such as coal, oil, gas and uranium are concentrated in specific countries. Hence, only few TIAM regions are chosen for export of the conventional energy sources and other specific regions for import. Figure 1 below shows an example of coal trade with an activity bound, a TIMES attribute for trade limit, between TIAM regions. 
+ main
 
 ![Coal import and export](./figs/coal_import_export.png) 
 Figure 1. Activity bound of coal trade (in PJ) between world regions for year 2015.
@@ -19,6 +23,9 @@ Unlike other commodities, information regarding import and export of uranium is 
 
 Commodities such as hydrogen, ammonia and synfuels can be produced in any TIAM region due to the availability of technologies to produce them. Hence, all the regions are given the possibility to import or export them from/ to other regions via ship transport. For ship transport, one specific harbour/ port is selected for each TIAM region except for Africa. Africa, due to its size, has two ports [2]. Further information related to the location of the ports and the trade of commodities is mentioned in the section “Global trade of commodities”.
 
+Extraction-of-fossil-fuels
+
+ main
 References
 
 [1] 	U. Remme, M. Blesl und U. Fahl, „Global resources and energy trade: An overview of coal, natural ga, oil and uranium,“ Stuttgart, 2007.
