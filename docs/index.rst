@@ -17,6 +17,7 @@ Welcome to ETSAP-TIAM's documentation project!
    scenarios/index
    exogenous/index
    optional/index
+   literature/index
    
 
 
