@@ -27,7 +27,7 @@ Table 1: Cumulative resource, reserve available annually and the associated cost
 | USA    | 6134.5               | 613.5             | 1.31         |
 | WEU    | 45.6                 | 4.6               | 3.65         |
 
-References
+### References
 
 [1] 	U. Remme, M. Blesl und U. Fahl, „Global resoures and energy trade: An overview for coal, natural gas, oil and uranium,“ Stuttgart, 2007.
 
