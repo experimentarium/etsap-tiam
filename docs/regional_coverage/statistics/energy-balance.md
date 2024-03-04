@@ -2,7 +2,7 @@
 
 General Information 
 
-An energy balance provides a detailed and comprehensive overview of the energy situation in a specific country or region. The energy balance provides all relevant information to describe all end-use sectors (agriculture, commercial, industry, residential and transport) for an energy system model. Therefore, energy carriers, such as coal, oil and gas are covered in the energy statistics flow. Several pieces of information are contained:
+An energy balance provides a detailed and comprehensive overview of the energy situation in a specific country or region. The energy balance provides all relevant information to describe all end-use sectors (agriculture, commercial, industry, residential and transport) for an energy system model. Several pieces of information are contained:
 1.	Energy Production and Sources: It shows the total energy produced within a country (or region), including the breakdown of different energy sources (e.g. oil, natural gas, coal, renewables, and nuclear power). This helps in understanding a country's energy mix and its dependence on specific energy sources.
 2.	Energy Imports and Exports: The balance details the amounts of energy imported and exported. This information is crucial for understanding a country's energy dependency on other nations and its role in the global energy market.
 3.	Energy Transformation: It tracks how primary energy sources (e.g. crude oil or natural gas) are converted into secondary forms of energy (e.g. electricity or refined petroleum products) that are more usable for end-use sectors.
