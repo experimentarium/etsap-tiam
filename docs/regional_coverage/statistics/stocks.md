@@ -9,11 +9,11 @@ As the energy balance provides energy flows instead of the actual installed capa
 $CAP2ACT=\frac{CAP}{ACT}=\frac{(1GW⋅8760h)}{PJ}=\frac{(8760 GWh)}{PJ}=\frac{(31,536 PJ)}{PJ}=31,536$
 
 1 PJ of coal with an estimated availability factor of 95% equals 0,033 GW of capacity.
-This procedure is done for all energy flows in order to get the associating capacity for all technologies in the power sector (cf. Power Sector).
+This procedure is done for all energy flows in order to get the associating capacity for all technologies in the [power Sector](../power-sector/index.md).
 
 ### Industry
 
-The industry is split into 6 different end products (cf. Industry). While some of the end products as steel are modelled in the activity unit megatons (MT) others as the chemical sector are modelled in PJ. For all of the end products energy service demands are necessary as steam, process heat etc. All of the service demands for the industry are modelled in an energetic manner. The stocks therefore are applied to the energy service demands which relates the years of machine capacity. 
+The [industry](../industry/index.md) is split into 6 different end products. While some of the end products as steel are modelled in the activity unit megatons (MT) others as the chemical sector are modelled in PJ. For all of the end products energy service demands are necessary as steam, process heat etc. All of the service demands for the industry are modelled in an energetic manner. The stocks therefore are applied to the energy service demands which relates the years of machine capacity. 
 
 ### Residential
 
@@ -23,7 +23,7 @@ The residential sector is modelled in an energetic manner. Capacities are not co
 
 The commercial sector is modelled as the residential sectors in terms of stocks. 
 
-Agriculture
+### Agriculture
 
 There is no capacity considered in the agriculture sector. The energy demands are modelled via energy flows (cf. Agriculture). 
 
