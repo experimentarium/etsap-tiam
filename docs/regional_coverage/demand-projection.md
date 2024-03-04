@@ -1,6 +1,6 @@
 # Demand Projection
 
-As TIAM operates as a partial-equilibrium model, it requires a baseline [energy service demand](../sectoral_coverage/energy-service-demands.md) level for all energy service considered. [Sectoral coverage](../sectoral_coverage/index.md) presents a comprehensive list of energy-service demands for every sector. Each energy-service demand is associated with a specific driver, facilitating the projection of future demand throughout the model horizon (2005 to 2100). These drivers are linked to the energy-service demands through a constant and an elasticity, following equation (1).
+As TIAM operates as a partial-equilibrium model, it requires a baseline [energy service demand](../sectoral_coverage/energy-service-demands.md) level for all energy service considered. [Sectoral coverage](../sectoral_coverage/index.md) presents a comprehensive list of energy-service demands for every sector. Each energy-service demand is associated with a specific driver, facilitating the projection of future demand throughout the model horizon (2018 to 2100). These drivers are linked to the energy-service demands through a constant and an elasticity, following equation (1).
 
 $$ Demand_{t}=\ Demand_{t-1} \times driver^{elasticity} $$  (1)
 

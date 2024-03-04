@@ -1,7 +1,7 @@
 ## Agriculture
 
 The agricultural sector (AGR) is mapped on the basis of IEA data sheets and data on fuels used and resulting emissions. 
-For the agricultural sector, a proportional relationship between production of agricultural products and the demand for energy services is assumed. In principle, the modelling of the agricultural sector only covers its energy use. Figure 1 shows the predicted demand for energy services in TIAM regions of the world with 2015 as the base year up to 2100. The base year of the agricultural sector is calibrated using the IEA energy balance.
+For the agricultural sector, a proportional relationship between production of agricultural products and the demand for energy services is assumed. In principle, the modelling of the agricultural sector only covers its energy use. Figure 1 shows the predicted demand for energy services in TIAM regions of the world with 2018 as the base year up to 2100. The base year of the agricultural sector is calibrated using the IEA energy balance.
  
 ![Agriculture Deamdn Projection](./figs/agriculture_demand.png) 
 
