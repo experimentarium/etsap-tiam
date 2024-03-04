@@ -1,6 +1,6 @@
 # Model Overview
 
-Energy system models are used to measure the impact of climate policy and find path dependencies when decarbonizing the energy system.
+Energy system models are used to measure the impact of climate policy and find path dependencies when decarboizing the energy system.
  TIAM- TIMES Integrated Assessment Model, is a technology-rich bottom-up optimization model minimizing the total discounted system costs. On a spatial level, TIAM considers 16 regions, in which some regions represent countries (e.g., the US) and others are aggregated (e.g., Africa); see Figure 1. Table 1 provides further information about the TIAM regions. 
 
 ![TIAM Map](./figs/TIAM_map_without_ports.png) 
