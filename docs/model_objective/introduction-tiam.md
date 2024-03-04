@@ -1,7 +1,7 @@
 # Model Overview
 
 Energy system models are used to measure the impact of climate policy and find path dependencies when decarboizing the energy system.
- TIAM- TIMES Integrated Assessment Model, is a technology-rich bottom-up optimization model minimizing the total discounted system costs. On a spatial level, TIAM considers 16 regions, in which some regions represent countries (e.g., the US) and others are aggregated (e.g., Africa); see Figure 1. Table 1 provides further information about the TIAM regions. 
+TIAM (TIMES Integrated Assessment Model), is a technology-rich bottom-up optimization model minimizing the total discounted system costs. On a spatial level, TIAM considers 16 regions, in which some regions represent countries (e.g., the US) and others are aggregated (e.g., Africa); see Figure 1. Table 1 provides further information about the TIAM regions. 
 
 ![TIAM Map](./figs/TIAM_map_without_ports.png) 
 Figure 1. TIAM map.
@@ -10,7 +10,7 @@ Processes and commodities are the main elements of TIAM. Commodities are defined
 
 As a starting point of the underlying methodology, commodities are provided by domestic mining or imports as primary energy for further processing. Certain parameters are exogenously set as energy prices or potentials for mining. The primary energy is provided to be converted to the final energy sectors to satisfy the end use demand.
 
-The end use sectors in TIAM are split into five different categories- industry, transport, households, commercial and agriculture (see Figure 2).
+The end use sectors in TIAM are split into five different categories: industry, transport, households, commercial and agriculture (see Figure 2).
 
 The time horizon of TIAM starts in 2018 and ends in 2100. The demand is based on the statistics of the base year in 2018, and it is projected via drivers such as GDP or changes in population. Furthermore, TIAM distinguishes between twelve time slices. There are four for each season and three for day, night and the peak hour. 
 
