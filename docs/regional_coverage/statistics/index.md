@@ -8,5 +8,7 @@ This section describes:
 titlesonly:
 glob:
 ---
-*
+energy-balance
+emissions
+stocks
 ```
