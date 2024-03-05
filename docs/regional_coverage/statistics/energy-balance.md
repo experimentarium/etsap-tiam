@@ -10,7 +10,6 @@ An energy balance provides a detailed and comprehensive overview of the energy s
 
 Depending on the level of modelling, the energy balance does not support the degree on detail. Therefore, some further expert information is necessary in order to build up a full model.
 
-## Energy Balance for TIAM
 
 TIAM uses energy balance provided by the International Energy Agency (IEA). There is an open data [energy balance](https://stats.oecd.org/BrandedView.aspx?oecd_bv_id=enestats-data-en&doi=data-00512-en) that gives an overview of energy production and transformation.
 
