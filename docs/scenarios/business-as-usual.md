@@ -1,3 +1,0 @@
-## Business as usual
-
-The business as usual (BAU) scenario does not contain any elements of climate policy. It does not follow a climate budget approach (cf. [Paris Agreement](https://etsap-tiam.readthedocs.io/en/latest/scenarios/paris-agreement.html)), or a CO2 price. The scenario primarily serves as a reference to climate policy in the scenario comparison in order to show the effects of climate policy.
