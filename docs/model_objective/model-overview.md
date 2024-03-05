@@ -3,7 +3,8 @@
 Energy system models are used to measure the impact of climate policy and find path dependencies when decarboizing the energy system.
 TIAM (TIMES Integrated Assessment Model), is a technology-rich bottom-up optimization model minimizing the total discounted system costs. On a spatial level, TIAM considers 16 regions, in which some regions represent countries (e.g., the US) and others are aggregated (e.g., Africa); see Figure 1. [Region description](../regional_coverage/region-description.md) provides further information about the TIAM regions. 
 
-![TIAM Map](./figs/TIAM_map_without_ports.png) 
+![TIAM Map](./figs/tiam-map.png) 
+
 Figure 1. TIAM map.
 
 Processes and commodities are the main elements of TIAM. Commodities are defined as all energy carriers (e.g., coal, oil, hydrogen, etc.) or materials (e.g., steel, cement, etc.) and can be produced out of technology processes, as well as emissions. Processes are all technologies that produce or provide commodities, e.g., cars in the transport sector or heating technologies in the household sector. All technologies have certain properties, such as their lifetime, investment costs, operation and maintenance costs and availability. The whole procedure is based on investment decisions. These properties ensure that there is a competition of all the technologies and a cost-optimal path can be found. 
