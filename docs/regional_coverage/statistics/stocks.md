@@ -9,7 +9,7 @@ As the energy balance provides energy flows instead of the actual installed capa
 $CAP2ACT=\frac{CAP}{ACT}=\frac{(1GW⋅8760h)}{PJ}=\frac{(8760 GWh)}{PJ}=\frac{(31,536 PJ)}{PJ}=31,536$
 
 1 PJ of coal with an estimated availability factor of 95% equals 0,033 GW of capacity.
-This procedure is done for all energy flows in order to get the associating capacity for all technologies in the [power Sector](../sectoral_coverage/power-sector.md).
+This procedure is done for all energy flows in order to get the associating capacity for all technologies in the [power sector](../sectoral_coverage/power-sector.md).
 
 ### Industry
 
