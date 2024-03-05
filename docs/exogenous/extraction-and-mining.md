@@ -6,7 +6,7 @@ Fossil fuels have limited resources. The total cumulative value of resources for
 
 In order to make sure that resources are not exhausted within few years after extraction, constraints are set on the usage of the commodity every year. For all the resources, an upper limit for the use of the resource is defined for each period. In TIAM, 10 % of the cumulative resource is set as constraint/available reserve for each year until 2100. Based on the reserve constraint and cumulative resource, TIAM model automatically calculates commodity usage for the global processes every year. Costs for the resource extraction are found out for the base year 2018 and the same or similar costs are extrapolated until 2100. An example for hard coal resource, reserves and the costs for each TIAM region is shown in Table 1. 
 
-Table 1: Cumulative resource, reserve available annually and the associated costs per TIAM region for hard coal from 2015 until 2100.
+Table 1: Cumulative resource, reserve available annually and the associated costs per TIAM region for hard coal from 2018 until 2100.
 
 | Region | Cumulative resource (EJ) | Reserve per year (EJ)  | Costs (€/MJ) |
 |--------|----------------------|-------------------|--------------|
