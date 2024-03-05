@@ -1,12 +1,12 @@
-# Model Overview
+# Model Introduction
 
-This section describes:
+This section provides a general introduction about the ETSAP-TIAM model, the time resolution considered and the objective function for the linear optimization model. 
 
 ```{toctree}
 ---
 titlesonly:
 ---
-introduction-tiam
+model-overview
 time-horizon
 objective-function
 ```

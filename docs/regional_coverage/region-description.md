@@ -1,6 +1,6 @@
 # Region description
 
-The considered regions of TIAM can be seen in figure 1. All are listed seperatly in table 1. 
+On a spatial level, TIAM considers 16 regions, in which some regions represent countries (e.g., the US) and others are aggregated (e.g., Africa); see Figure 1. Table 1 provides further information about the TIAM regions. 
 
 ![TIAM Map](./figs/region-description.png) 
 Figure 1. TIAM regions on global map.

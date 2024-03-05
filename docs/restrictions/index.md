@@ -1,4 +1,4 @@
-# Restrictions
+# Constraints and Potentials
 
 This section describes:
 
