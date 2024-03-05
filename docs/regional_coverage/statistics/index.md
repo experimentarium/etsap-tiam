@@ -8,5 +8,7 @@ This section describes the energy balance approch, emissions factor for differen
 titlesonly:
 glob:
 ---
-*
+energy-balance
+emissions
+stocks
 ```
