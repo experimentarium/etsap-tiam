@@ -8,8 +8,8 @@ This section describes all the regions covered in TIAM followed by base year inf
 titlesonly:
 glob:
 ---
-statistics/index
 region-description
+statistics/index
 demand-projection
 import-export
 
