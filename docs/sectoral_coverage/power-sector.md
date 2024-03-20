@@ -9,12 +9,16 @@ These technologies are used as input to the TIAM model for power generation, gre
 Table 1: CAPEX, OPEX, efficiency and lifetime of different renewable power plants
 | Technology    | CAPEX in 2020 [EUR/kW] | CAPEX in 2030 [EUR/kW] | CAPEX in 2040 [EUR/kW] | CAPEX in 2050 [EUR/kW] | OPEX [%CAPEX/a] | Efficiency [%] | Lifetime [Years] | Source  |
 |---------------|-----------|-------|-------|-------|------------|------------|----------|----------|
-| Onshore Wind  | 1.257     | 1.137 | 987   | 923   | 3          | 100        | 25       | [1]      |
+| Onshore Wind  | 1257     | 1137 | 987   | 923   | 3          | 100        | 25       | [1]      |
 | Solar PV      | 703       | 395   | 340   | 326   | 1          | 100        | 25       | [1]      |
-| Biomass       | 2.037     | 1.954 | 1.892 | 1.826 | 3.5        | 100        | 25       | [2], [3] |
-| Hydro Power   | -         | -     | -     | 2.718 | 2          | 100        | 100      | [2], [4] |
-| Offshore-Wind | -         | -     | -     | 1.496 | 3          | 100        | 25       | [4]      |
-| Nuclear       | -         | -     | -     | 3.990 | 4          | 30         | 60       | [4]      |
+| Biomass       | 2037     | 1954 | 1892 | 1826 | 3.5        | 100        | 25       | [2], [3] |
+| Hydro Power   | 2793         | 2783     | 2783     | 2718 | 2          | 100        | 100      | [2], [4] |
+| Offshore-Wind | 2858         | 2731     | 2634     | 2523 | 3          | 100        | 25       | [4]      |
+| Nuclear       | 4912         | 4912     | 4912     | 4912 | 4          | 30         | 60       | [4]      |
+
+## Carbon capture technology options
+Carbon Capture technologies are included for certain fossil-based and biomass gasification plants. Technologies like oxyfuel process is combined with the coal and natural gas power plants to produce a storable and transportable CO2 commodity alongside electricity. This CO2 commodity is then transported to different long-term storage locations as mentioned in [CCS potentials]( https://etsap-tiam.readthedocs.io/en/latest/restrictions/ccs-potentials.html). For the case of biomass plants, CO2 can be directly captured from the atmosphere (negative emissions) and transported to the storage locations. 
+
 
 ## References
 
@@ -24,4 +28,4 @@ Table 1: CAPEX, OPEX, efficiency and lifetime of different renewable power plant
 
 [3]	IEA, “World Energy Outlook 2018,” Paris, Nov. 2018. Accessed: Jan. 30 2023. [Online]. Available: https://www.iea.org/reports/world-energy-outlook-2018.
 
-[4]	IEA, “World Energy Outlook 2021,” Paris, Nov. 2021. Accessed: Jan. 30 2023. [Online]. Available: https://www.iea.org/reports/world-energy-outlook-2018.
+[4]	Joint Research Centre Data Catalogue. Accessed: Jan. 30 2023. [Online]. Available: https://data.jrc.ec.europa.eu/collection/id-00287.
